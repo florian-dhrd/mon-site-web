@@ -1,0 +1,31 @@
+p{
+	color : red;
+}
+img{
+	width : 400px;
+}
+table{
+	border : solid;
+}
+body{
+	font-family : sans-serif;
+	background-color : beige;
+}
+.carte-passion{
+	border : solid;
+	background-color : white;
+	margin : 10px;
+	padding : 5px;
+	text-align: center;
+	width : 50%;
+}
+nav li{
+	display : inline-block;
+	width : 70px;
+}
+.badge2{
+	position : absolute;
+	width : 80px;
+	top : 230px;
+	right : 720px;
+}
